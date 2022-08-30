@@ -18,7 +18,7 @@ Thoughts before coding :-
 -> something to do with the length of the array.
 -> sum - length.
 
-Answer :-
+Solution :-
 
 -> The array has a range so since we have the length of the array we can find the sum of n natural numbers using
     n * (n+1)/2.

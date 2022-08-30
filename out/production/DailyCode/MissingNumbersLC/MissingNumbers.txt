@@ -12,10 +12,25 @@ Explanation: n = 3 since there are 3 numbers, so all numbers are in the range [0
 
 Thoughts before coding :-
 
--> Sort the array
+-> Sort the array.
     0,1,3
--> take the sum
--> something to do with the length of the array
--> sum - length 
+-> take the sum.
+-> something to do with the length of the array.
+-> sum - length.
+
+Answer :-
+
+-> The array has a range so since we have the length of the array we can find the sum of n natural numbers using
+    n * (n+1)/2.
+-> since one number is missing in the range we can just compute the difference between sum of n natural numbers(rangesum)
+    and the current arrays sum.
+
+Time Complexity : O(N).
+
+
+
+
+
+
 
 

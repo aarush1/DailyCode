@@ -12,7 +12,7 @@ public class MissingNumbers {
             sum+= nums[i];
         }
 
-        return rangesum - sum;
+       // return rangesum - sum;
 
     }
 
