@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StriverA-Z-DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting Algorithms" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
